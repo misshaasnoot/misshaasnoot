@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misshaasnoot
 - 👀 I’m interested in learning more about HTML5, CSS, Javascript, React.
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning CSS.
 - 💞️ I’m looking to collaborate on anyhting fun.
 - 📫 Just message me!
 
