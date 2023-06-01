@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @misshaasnoot
-- 👀 I’m interested in learning more about HTML5, CSS, Javascript, React.
-- 🌱 I’m currently learning CSS.
-- 💞️ I’m looking to collaborate on anyhting fun.
-- 📫 Just message me!
+Hi! I'm Sophie. I'm a front-end developer based in Amsterdam and ready to work on something fun!
+Currently I'm focussing on learning JavaScript and React. In the past, I have completed the Le Wagon full-stack web development bootcamp.
 
 <!---
 misshaasnoot/misshaasnoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
